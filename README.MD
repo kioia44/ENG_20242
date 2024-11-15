@@ -27,7 +27,7 @@ Para cada atividade, crie uma pasta separada no seu repositório no GitHub segui
 ### Estrutura de Entrega das Atividades
 As atividades serão postadas no blog com as seguintes datas de entrega:
 - **Atividade 1: 02/11** - Exercícios de sala de aula - Conteúdo: Unidade VIII (0,75 ponto).
-- **Atividade 2: 16/11** - Exercícios de sala de aula - Conteúdo: Unidade VII (0,75 ponto). 
+- **Atividade 2: ~16/11~ 24/11** - Exercícios de sala de aula - Conteúdo: Unidade VII (0,75 ponto). 
 - **Atividade final: 01/12** - Exercícios de sala de aula - Conteúdo: Unidade IX e X (1,5 ponto).
 
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
